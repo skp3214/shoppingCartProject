@@ -39,12 +39,12 @@ efficiently.
 ![Screenshot 2023-09-16 004651](https://github.com/skp3214/shoppingCartProject/assets/95349420/7cd68f40-4f21-44af-81da-029170dac765)
 
 
-## Project Preview
-# Menu Preview
+# Project Preview
+## Menu Preview
 
 ![menu](https://github.com/skp3214/shoppingCartProject/assets/95349420/cef38515-d2e7-4dff-a3ad-63bb44600733)
 
-# Adding 1st Product
+## Adding 1st Product
 
 ![p1](https://github.com/skp3214/shoppingCartProject/assets/95349420/4fcdea7f-0aec-44e0-a4f6-7f808656e327)
 
@@ -52,37 +52,37 @@ efficiently.
 
 ![p2](https://github.com/skp3214/shoppingCartProject/assets/95349420/77d90306-4291-48b6-b1de-b27f2fb218d7)
 
-# Adding 3rd Product
+## Adding 3rd Product
 
 ![p3](https://github.com/skp3214/shoppingCartProject/assets/95349420/fa37834a-718b-4132-b980-843434cc27ba)
 
-# Viewing added product
+## Viewing added product
 
 ![view](https://github.com/skp3214/shoppingCartProject/assets/95349420/7dbc03ee-6554-4e4e-88f3-e8c1300eb8c5)
 
-# Removing product
+## Removing product
 
 ![remove](https://github.com/skp3214/shoppingCartProject/assets/95349420/2525109b-f5a8-4bf4-9e3e-e317d4a89a0e)
 
-# Remove product proof
+## Remove product proof
 
 ![removeproof](https://github.com/skp3214/shoppingCartProject/assets/95349420/828561ae-f337-4d8d-b67e-85f1243f119e)
 
-# Exit without checkout
+## Exit without checkout
 
 ![exit](https://github.com/skp3214/shoppingCartProject/assets/95349420/b487f317-ba5b-418f-8e14-a80538dbe368)
 
 
-# Checkout 
+## Checkout 
 
 ![checkout](https://github.com/skp3214/shoppingCartProject/assets/95349420/f1590ef6-8483-4940-ae6d-287484720b69)
 
 
-# FlowChart
+## FlowChart
 
 ![Screenshot 2023-07-14 183839](https://github.com/skp3214/shoppingCartProject/assets/95349420/30ceb136-4adf-4953-a38e-8abbcda03f97)
 
-# Gantt Chart
+## Gantt Chart
 
 ![Screenshot 2023-07-16 110900](https://github.com/skp3214/shoppingCartProject/assets/95349420/a2c7232e-58af-47fd-8c59-470dfb0141a9)
 
